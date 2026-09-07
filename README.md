@@ -1,5 +1,6 @@
 SIVA SURYA M S
-Computer Science & Engineering Student | Software Testing | Java | Web Development | Networking
+
+Computer Science & Engineering Student | Software Testing | Java | Networking
 
 I am a motivated and enthusiastic final-year Bachelor of Engineering student in Computer Science and Engineering at Dr. N.G.P. Institute of Technology, Coimbatore, with a strong interest in Software Testing, Networking, and Web Development. I am passionate about learning new technologies, improving my technical skills, and applying my knowledge to real-world software projects. I am currently seeking opportunities where I can gain practical industry experience, contribute effectively to an organization, and grow as a software professional.
 
